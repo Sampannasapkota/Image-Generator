@@ -1,2 +1,2 @@
-# Image-Generator
-image-generator
+# Image-finder
+image-fider
